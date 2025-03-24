@@ -13,17 +13,11 @@
         <mxCell id="qak7q7FGgSyMwkPl69Cy-435" value="客户请求" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-436" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="qak7q7FGgSyMwkPl69Cy-436" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="130" as="sourcePoint" />
-            <mxPoint x="300" y="130" as="targetPoint" />
+            <mxPoint x="320" y="130" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-438" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qak7q7FGgSyMwkPl69Cy-437" target="qak7q7FGgSyMwkPl69Cy-435">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-437" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
