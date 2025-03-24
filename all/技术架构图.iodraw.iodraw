@@ -23,7 +23,7 @@
           <mxGeometry x="300" y="100" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qak7q7FGgSyMwkPl69Cy-440" value="业务逻辑层 BLL" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="180" height="80" as="geometry" />
+          <mxGeometry x="300" y="240" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qak7q7FGgSyMwkPl69Cy-441" value="数据访问层 DAL&lt;div&gt;SqlSugar&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="180" height="80" as="geometry" />
