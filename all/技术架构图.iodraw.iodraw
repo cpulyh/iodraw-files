@@ -43,7 +43,7 @@
         <mxCell id="qak7q7FGgSyMwkPl69Cy-448" value="ORM类模型&lt;div&gt;Models&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-450" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;strokeColor=#707070;exitX=0;exitY=0;exitDx=180;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="qak7q7FGgSyMwkPl69Cy-439">
+        <mxCell id="qak7q7FGgSyMwkPl69Cy-450" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;strokeColor=default;exitX=0;exitY=0;exitDx=180;exitDy=50;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="qak7q7FGgSyMwkPl69Cy-439" target="qak7q7FGgSyMwkPl69Cy-448">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="190" as="sourcePoint" />
             <mxPoint x="710" y="250" as="targetPoint" />
