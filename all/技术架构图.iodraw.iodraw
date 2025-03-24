@@ -22,7 +22,7 @@
         <mxCell id="qak7q7FGgSyMwkPl69Cy-444" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="qak7q7FGgSyMwkPl69Cy-439" target="qak7q7FGgSyMwkPl69Cy-440">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-439" value="界面展示层 UI&lt;div&gt;WinForm、AntdUI&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="qak7q7FGgSyMwkPl69Cy-439" value="界面展示层 UI&lt;div&gt;WinForm、AntdUI&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="300" y="100" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qak7q7FGgSyMwkPl69Cy-445" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="qak7q7FGgSyMwkPl69Cy-440" target="qak7q7FGgSyMwkPl69Cy-441">
