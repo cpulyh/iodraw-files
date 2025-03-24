@@ -19,8 +19,11 @@
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qak7q7FGgSyMwkPl69Cy-438" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qak7q7FGgSyMwkPl69Cy-437" target="qak7q7FGgSyMwkPl69Cy-435">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qak7q7FGgSyMwkPl69Cy-437" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="90" height="100" as="geometry" />
+          <mxGeometry x="320" y="80" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
