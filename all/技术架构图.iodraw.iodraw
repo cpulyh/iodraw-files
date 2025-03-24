@@ -22,7 +22,7 @@
         <mxCell id="qak7q7FGgSyMwkPl69Cy-439" value="数据访问层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="300" y="100" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-440" value="数据访问层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="qak7q7FGgSyMwkPl69Cy-440" value="业务逻辑层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qak7q7FGgSyMwkPl69Cy-441" value="数据访问层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=22;" vertex="1" parent="1">
