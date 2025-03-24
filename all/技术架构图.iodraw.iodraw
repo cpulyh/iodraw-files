@@ -19,8 +19,8 @@
             <mxPoint x="320" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qak7q7FGgSyMwkPl69Cy-439" value="数据访问层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="170" height="80" as="geometry" />
+        <mxCell id="qak7q7FGgSyMwkPl69Cy-439" value="界面展示层&lt;div&gt;WinForm、AntdUI&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qak7q7FGgSyMwkPl69Cy-440" value="业务逻辑层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="170" height="80" as="geometry" />
